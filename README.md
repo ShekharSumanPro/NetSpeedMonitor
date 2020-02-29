@@ -24,5 +24,8 @@ To sum it up, NetSpeedMonitor can be of real help if you want to keep an eye on 
 
 Filed under
 Network Monitor Monitor Bandwidth Taskbar Toolbar Bandwidth Monitor Traffic Network
+Network Monitor Download Links:-
+http://www.mediafire.com/file/127c25zz9866kzf/netspeedmonitor_2_5_4_0_x86_setup.msi/file
+http://www.mediafire.com/file/28e2wtf2df3ibs6/netspeedmonitor_2_5_4_0_x64_setup.msi/file
 Download Link:- https://drive.google.com/file/d/1nDy1gb1maZEDF41OOo4D7qBbb-peXEqW/view?usp=sharing
 Download:- https://www.softpedia.com/get/Network-Tools/Bandwidth-Tools/NetSpeedMonitor.shtml
