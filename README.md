@@ -45,4 +45,4 @@ Server Optimization Kernel Optimization, advanced security protector, Hardware R
 And
 SERVER HARDENING & SECURITY PROFESSIONAL SERVER SECURITY SERVICES
 ---------------------------------------------------------------------------- 
-People Say "i Don't Earn Much"  i Say "Learning is My Income & Knowledge is My Bank Balance"
+# People Say "i Don't Earn Much"  i Say "Learning is My Income & Knowledge is My Bank Balance" 
